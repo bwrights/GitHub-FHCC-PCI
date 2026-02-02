@@ -1,2 +1,3 @@
 # GitHub-FHCC-PCI
-learning
+learning GitHub
+workshop demo with Chris
